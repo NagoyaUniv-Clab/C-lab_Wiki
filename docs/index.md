@@ -3,4 +3,4 @@
 - [profiles](https://github.com/NagoyaUniv-Clab/profiles)
 
 ## Getting Started
-- [How to mirror](./sections/getting_started/mirroring.md)
+- [How to mirror](./sections/getting-started/mirroring.md)
